@@ -1,0 +1,241 @@
+.kotak1 {
+  width: 160px;
+  height: 100px;
+  background-color: purple;
+  border: solid 2px black;
+  float: left;
+  margin-right: 20px;
+}
+
+.kotak2 {
+  width: 740px;
+  height: 100px;
+  background-color: orange;
+  border: solid 2px black;
+  float: left;
+  margin-right: 20px;
+}
+
+.kotak3 {
+  width: 160px;
+  height: 100px;
+  background-color: purple;
+  border: solid 2px black;
+  float: left;
+  margin-right: 20px;
+}
+
+.kotak4 {
+  width: 1109px;
+  height: 45px;
+  background-color: red;
+  border: solid 2px black;
+  float: left;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+.kotak5 {
+  width: 160px;
+  height: 490px;
+  background-color: blue;
+  border: solid 2px black;
+  float: left;
+  margin-right: 1000px;
+  margin-top: 10px;
+}
+
+.kotak6 {
+  width: 700px;
+  height: 760px;
+  background-color: grey;
+  border: solid 18px black;
+  float: left;
+  margin-left: 180px;
+}
+
+.child {
+  width: 680px;
+  height: 120px;
+  background: white;
+  position: absolute;
+  top: 73%;
+  left: 551px;
+  margin-left: -349px;
+  border: solid 20px black;
+}
+
+.kotak7 {
+  width: 210px;
+  height: 120px;
+  background-color: white;
+  position: absolute;
+  top: 73%;
+  left: 424px;
+  border: solid 20px black;
+}
+
+.kotak8 {
+  width: 160px;
+  height: 290px;
+  background-color: blue;
+  border: solid 2px black;
+  float: left;
+  margin-right: 1000px;
+  margin-top: 10px;
+  
+}
+
+.kotak9 {
+  width: 160px;
+  height: 485px;
+  background-color: blue;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-top: 173px;
+  margin-left: 950px;
+}
+
+.kotak10 {
+  width: 160px;
+  height: 295px;
+  background-color: blue;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 950px;
+  margin-top: 672px;
+}
+
+.kotak11 {
+  width: 1109px;
+  height: 95px;
+  background-color: chocolate;
+  border: solid 2px black;
+  float: left;
+  margin-left: 0px;
+  margin-top: 20px;
+  
+}
+
+.kotak12{
+   width: 155px;
+  height: 70px;
+  background-color: pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 25px;
+  margin-top: 1004px;
+  
+}
+
+.kotak13{
+   width: 155px;
+  height: 70px;
+  background-color:pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 220px;
+  margin-top: 1004px;
+}
+
+.kotak14{
+   width: 155px;
+  height: 70px;
+  background-color:pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 400px;
+  margin-top: 1004px;
+}
+
+.kotak15{
+   width: 155px;
+  height: 70px;
+  background-color: pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 580px;
+  margin-top: 1004px;
+}
+
+.kotak16{
+   width: 155px;
+  height: 70px;
+  background-color: pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 760px;
+  margin-top: 1004px;
+}
+
+.kotak17{
+   width: 155px;
+  height: 70px;
+  background-color: pink;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 935px;
+  margin-top: 1004px;
+}
+
+.kotak18 {
+   width: 1109px;
+  height: 220px;
+  background-color: green;
+  border: solid 2px black;
+  float: left;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+
+.kotak19 {
+ width: 345px;
+  height: 80px;
+  background-color: yellow;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 10px;
+  margin-top: 1120px;
+}
+
+.kotak20 {
+ width: 235px;
+  height: 180px;
+  background-color: yellow;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 370px;
+  margin-top: 1120px;
+}
+
+.kotak21 { 
+width: 235px;
+  height: 180px;
+  background-color: yellow;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 620px;
+  margin-top: 1120px;
+}
+
+.kotak22 {
+width: 235px;
+  height: 180px;
+  background-color: yellow;
+  position: absolute;
+  border: solid 2px black;
+  float: left;
+  margin-left: 865px;
+  margin-top: 1120px;
+}
